@@ -1,0 +1,34 @@
+{
+    "name": "Test Nome",
+    "subtitle": "Backend & Integration Analyst | Software Developer",
+    "social_links": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#",
+        "github": "#"
+    },
+    "about": {
+        "who": "Mi occupo di Backend per gestionali aziendali...",
+        "details": "Lavoro a stretto contatto con piccole imprese..."
+    },
+    "personal_info": {
+        "birthdate": "23/03/1999",
+        "work_email": "enrico.baldasso@smc.it",
+        "personal_email": "enricobaldasso88@gmail.com",
+        "work_number": "+ (39) 3428563032",
+        "instagram": "enricobaldasso"
+    },
+    "skills": [
+        { "name": "C", "level": "97%" },
+        { "name": "TypeScript & JavaScript", "level": "85%" },
+        { "name": "Python", "level": "80%" },
+        { "name": "SQL", "level": "90%" },
+        { "name": "Java", "level": "90%" },
+        { "name": "F#", "level": "90%" }
+    ],
+    "languages": [
+        { "name": "Italiano", "level": "100%" },
+        { "name": "Inglese", "level": "75%" },
+        { "name": "Spagnolo", "level": "27%" }
+    ]
+}
