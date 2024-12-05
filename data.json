@@ -1,6 +1,8 @@
 {
     "name": "Test Nome",
-    "subtitle": "Backend & Integration Analyst | Software Developer",
+    "who_am_i": "Ciao, Io Sono",
+    "header_mono_subtitle": "Backend & Integration Analyst | Software Developer",
+    "print_resume": "Print Resume",
     "social_links": {
         "facebook": "#",
         "twitter": "#",

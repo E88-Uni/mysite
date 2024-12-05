@@ -152,6 +152,6 @@ function initMap() {
 // custom functions
 $(document).ready(function() {
   $('#downloadCVButton').on('click', function() {
-    window.location.href = 'EnricoCVLink';
+    window.location.href = 'CVLink';
   });
 });
